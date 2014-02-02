@@ -42,7 +42,7 @@ Gem::Specification.new do |s|
     end
   else
     s.add_dependency(%q<httparty>, [">= 0.5.0"])
-    s.add_dependency(%q<multi_json>, ["~> 1.5.0"])
+    s.add_dependency(%q<multi_json>, ["~> 1.8.0"])
   end
 end
 
